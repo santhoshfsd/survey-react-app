@@ -31,9 +31,15 @@ Request Method
  - get,post, put, delete, patch
   
 # Heroku Deployment checklist
-
- dynamic port binding
- specify node environment
- specify start script
- gitignore
- 
+    dynamic port binding
+    specify node environment   
+    specify start script
+    gitignore
+First Time Deployment
+- git based work flow
+- heroku cli
+- deploy app with git
+- heroku login
+- heroku create 
+  - https://salty-brook-37273.herokuapp.com/ 
+  - deployment target -  https://git.heroku.com/salty-brook-37273.git
