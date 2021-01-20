@@ -48,3 +48,7 @@ First Time Deployment
 
 passport - general helpers for express apps, 
 passport strategy - helpers for authenticating
+Client id and Client secret
+redirect uri
+googleStrategy
+
