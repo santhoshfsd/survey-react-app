@@ -76,3 +76,14 @@ Redirect URI -http vs https
 React Client 
 
 - run the server and client concurrently -- prefix client-dir
+
+cookies - will be included in the request within a same domain
+
+by default cookie is not included for different port - different domains
+
+Cors
+
+
+auth flow with proxy
+
+- relative path - browser prefix the current domain
