@@ -72,3 +72,7 @@ Redirect URI -http vs https
 - relative path 
 - deployment pattern
 - strategy - proxy - doesnt trust a proxy
+
+React Client 
+
+- run the server and client concurrently -- prefix client-dir
