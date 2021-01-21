@@ -31,7 +31,7 @@ Request Method
  - get,post, put, delete, patch
   
 # Heroku Deployment checklist
-    dynamic port binding
+    dynamic port binding++
     specify node environment   
     specify start script
     gitignore
@@ -52,3 +52,16 @@ Client id and Client secret
 redirect uri
 googleStrategy
 
+cookie-session to manage cookies with passport js
+
+- cookie session extracts cookie data 
+- passport - pulls id out of cookie data
+- deserializUser - get user from id
+- add user model to req as object
+
+middleware - small piece of program to manipulate the request, before it gets passed to the route handler
+
+cookie session
+express session  - reference to a session in a store 
+
+set-cookie  - encrypted session
