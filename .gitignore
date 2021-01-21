@@ -104,4 +104,4 @@ dist
 .tern-port
 
 #ignore config
-keys.js
+dev.js

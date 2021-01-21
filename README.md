@@ -42,7 +42,8 @@ First Time Deployment
 - heroku login, create, open 
   - https://salty-brook-37273.herokuapp.com/ 
   - deployment target -  https://git.heroku.com/salty-brook-37273.git
-
+- git remote add heroku git url
+- heroku logs
 # OAuth
  passportJS - authentication flow
 
