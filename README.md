@@ -66,3 +66,9 @@ cookie session
 express session  - reference to a session in a store 
 
 set-cookie  - encrypted session
+
+
+Redirect URI -http vs https
+- relative path 
+- deployment pattern
+- strategy - proxy - doesnt trust a proxy
