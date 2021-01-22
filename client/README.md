@@ -45,3 +45,8 @@ React Route
 - landing page - /
 - survey 
 - survey/new
+# Materialize css
+    npm install materialize-css@next
+    Webpack - module loader 
+    - config CSS
+    - import the minified material-ui css from node modules into index
