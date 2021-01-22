@@ -87,3 +87,6 @@ Cors
 auth flow with proxy
 
 - relative path - browser prefix the current domain
+- http-proxy-middleware
+
+Promise  - async returns a promise
