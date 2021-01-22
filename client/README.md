@@ -35,3 +35,13 @@ knows how read changes from the redux store
 
 
 createStore - accepts the reducers, initial state value, middleware()
+
+
+React Route
+ - Route - setup rule for the route
+ - BrowserRouter - tells how o behave based on the url
+
+
+- landing page - /
+- survey 
+- survey/new
